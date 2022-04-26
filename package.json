@@ -1,0 +1,12 @@
+{
+  "name": "sls_creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sls": "env NODE_ENV=development sls"
+  },
+  "devDependencies": {
+    "serverless": "^3.15.2"
+  }
+}
